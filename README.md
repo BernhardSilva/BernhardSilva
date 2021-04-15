@@ -9,7 +9,7 @@
 - 🏆 2021 goals: Learn React Native and Flutter.
 - ⚡ Fun fact: Last night I was coding in my dreams 😂.
 
-**Languages and Tools:**  
+**Languages and Tools 💻**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -28,11 +28,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://api.iconify.design/logos:heroku-icon.svg?height=20"></code>
 
-**Visit my Portfolio:**
+**Visit my Portfolio 👇**
 
-<code><a href="https://bernhardsilva.com/"><img height="50" width="60" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
+<code><a href="https://bernhardsilva.com/" blank><img height="50" width="60" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png" target="_blank"></a></code>
 
-**Some nice Graphics:**
+**Some nice Graphics 🤓**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernhardSilva&show_icons=true&theme=dracula)
 
