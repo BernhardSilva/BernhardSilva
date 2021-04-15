@@ -30,7 +30,7 @@
 
 **Visit my Portfolio:**
 
-<code><a href="https://bernhardsilva.com/"><img height="50" width="50" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
+<code><a href="https://bernhardsilva.com/"><img height="50" width="60" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
 
 **Some nice Graphics:**
 
