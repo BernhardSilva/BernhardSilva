@@ -1,9 +1,9 @@
 Hi there, I'm Bernhard Silva! 👋
 
-- 🔭 I’m currently working as a Freelance
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working as a Freelance.
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on a company.
-- 🤔 I’m looking for help with any kind of React tips.
+- 🤔 I’m looking for help with any kind of React & React Native tips.
 - 💬 Ask me about if you want to hire me, or if you want info about React and Node.
 - 📫 How to reach me: bernhardsilva.com
 - 🏆 2021 goals: Learn React Native and Flutter.
@@ -26,7 +26,9 @@ Hi there, I'm Bernhard Silva! 👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="20" src="https://api.iconify.design/logos:spring-icon.svg?height=20"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://api.iconify.design/logos:heroku-icon.svg?height=20"></code>    
+<code><img height="20" src="https://api.iconify.design/logos:heroku-icon.svg?height=20"></code>
+
+<code><a href="https://www.bernhardsilva.com"><img height="50" weight="20" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernhardSilva&show_icons=true&theme=dracula)
