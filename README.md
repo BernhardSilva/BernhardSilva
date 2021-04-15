@@ -9,6 +9,12 @@ Hi there, I'm Bernhard Silva! 👋
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Last night I was coding in my dreams 😂.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernhardSilva&theme=monokai)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernhardSilva&theme=monokai)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernhardSilva&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bernhardSilva&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bernhardSilva&theme=monokai)
