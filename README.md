@@ -30,7 +30,7 @@
 
 **Visit my Portfolio:**
 
-<code><a href="https://bernhardsilva.com/"><img height="50" width="45" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
+<code><a href="https://bernhardsilva.com/"><img height="50" width="50" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
 
 **Some nice Graphics:**
 
@@ -41,7 +41,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bernhardSilva&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernhardSilva&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernhardSilva&theme=dracula)
 
 
