@@ -1,4 +1,4 @@
-Hi there, I'm Bernhard Silva! 👋
+**Hi there, I'm Bernhard Silva!** 👋
 
 - 🔭 I’m currently working as a Freelance.
 - 🌱 I’m currently learning React Native.
@@ -30,7 +30,7 @@ Hi there, I'm Bernhard Silva! 👋
 
 **Visit my Portfolio:**
 
-<code><a href="https://bernhardsilva.com/"><img height="50" width="20" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
+<code><a href="https://bernhardsilva.com/"><img height="50" width="45" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
 
 **Some nice Graphics:**
 
