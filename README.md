@@ -36,7 +36,7 @@ Hi there, I'm Bernhard Silva! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernhardSilva&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernhardSilva&layout=compact)](https://github.com/bernhardSilva/github-readme-stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernhardSilva&layout=compact)](https://github.com/bernhardSilva/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bernhardSilva&theme=dracula)
 
