@@ -28,14 +28,20 @@ Hi there, I'm Bernhard Silva! 👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://api.iconify.design/logos:heroku-icon.svg?height=20"></code>
 
+**Visit my Portfolio:**
+
 <code><a href="https://bernhardsilva.com/"><img height="50" width="20" alt="bern-logo" src="https://bernhardsilva.com/images/logo.png"></a></code>
 
+**Some nice Graphics:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernhardSilva&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernhardSilva&layout=compact)](https://github.com/bernhardSilva/github-readme-stat
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bernhardSilva&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernhardSilva&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernhardSilva&theme=dracula)
+
 
