@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Freelance.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on a company.
-- 🤔 I’m looking for help with any kind of React & React Native tips.
+- 🤔 I’m looking for help with any kind of new ideas for develop interesting projects.
 - 💬 Ask me about if you want to hire me, or if you want info about React or Node.
 - 📫 How to reach me: bernhardsilva.com
 - 🏆 2021 goals: Learn React Native and Flutter.
