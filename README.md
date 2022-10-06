@@ -1,13 +1,13 @@
 **Hi there, I'm Bernhard Silva!** 👋
 
-- 🔭 I’m currently working as a Freelance.
-- 🌱 I’m currently learning React Native.
+- 🔭 I’m currently working as freelance and improving my skills.
+- 🌱 I’m currently learning React advanced + Typescript.
 - 👯 I’m looking to collaborate on a open source project.
-- 🤔 I’m looking for help with any kind of new ideas for develop interesting projects.
+- 🤔 I’m looking for help with any kind of new ideas for developing interesting projects.
 - 💬 Ask me about if you want to hire me, or if you want info about React or Node.
 - 📫 How to reach me: bernhardsilva.com
 - 🏆 2022 goals: Master NextJS + Typescript.
-- ⚡ Fun fact: Last night I was coding in my dreams 😂.
+- ⚡ Fun fact: Last night I was coding in my dreams 😪👩‍💻.
 
 **Languages and Tools 💻**  
 
