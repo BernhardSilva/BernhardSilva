@@ -30,7 +30,7 @@
 
 **Visit my Portfolio 👇**
 
-<code><a href="https://bernhardsilva.com/" blank><img height="50" width="60" alt="bern-logo" src="[https://bernhardsilva.com/images/logo.png](https://bernhard.vercel.app/images/logo.png)" target="_blank"></a></code>
+<code><a href="https://bernhard.vercel.app/" blank><img height="50" width="60" alt="bern-logo" src="https://bernhard.vercel.app/images/logo.png" target="_blank"></a></code>
 
 **Some nice Graphics 🤓**
 
