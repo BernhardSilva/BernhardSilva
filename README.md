@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a open source project.
 - 🤔 I’m looking for help with any kind of new ideas for developing interesting projects.
 - 💬 Ask me about if you want to hire me, or if you want info about React or Node.
-- 📫 How to reach me: https://bernhard.vercel.app/
+- 📫 How to reach me: Send me an email 👉 <code><a href="https://bernhard.vercel.app/" blank><img height="18" width="20" alt="mail" src="https://bernhard.vercel.app/images/mail.png" target="_blank"></a></a></code> or check my portfolio down below!
 - 🏆 2023 goals: Master IA query engineering.
 - ⚡ Fun fact: Last night I was coding in my dreams 😪👩‍💻.
 
