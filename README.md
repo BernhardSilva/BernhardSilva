@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on **Improving some skills**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Nextjs 14**
 
 - 👯 I’m looking to collaborate on **on a open source project about AI**
 
 - 🤝 I’m looking for help with **for help with any kind of new ideas for developing interesting projects**
 
-- 👨‍💻 All of my projects are available at <code><a href="https://bernhard.vercel.app/" blank><img height="35" width="40" alt="bern-logo" src="https://bernhard.vercel.app/images/logo.png" target="_blank"></a></code>
+- 👨‍💻 All of my projects are available at <code><a href="https://bernhard.vercel.app/"><img height="35" width="40" alt="bern-logo" src="https://bernhard.vercel.app/images/logo.png" target="_blank"></a></code>
 
 - 📝 I regularly write articles on [AI](AI)
 
 - 💬 Ask me about **React, Node**
 
-- 📫 How to reach me **Send me an email 👉 <code><a href="https://bernhard.vercel.app/" blank><img height="18" width="20" alt="mail" src="https://bernhard.vercel.app/images/mail.png" target="_blank"></a></a></code> or check my portfolio down below!**
+- 📫 How to reach me **Send me an email 👉 <code><a href="mailto:bernhard.silva@gmail.com"><img height="18" width="20" alt="mail" src="https://bernhard.vercel.app/images/mail.png" target="_blank"></a></a></code> or check my portfolio down below!**
 
 - ⚡ Fun fact **Last night I was coding in my dreams 😪👩‍💻**
 
