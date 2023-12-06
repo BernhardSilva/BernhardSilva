@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bernhard_silva" target="blank"><img src="https://img.shields.io/twitter/follow/bernhard_silva?logo=twitter&style=for-the-badge" alt="bernhard_silva" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my programming skills**
+- 🔭 I’m currently working on **Digital Nomad - Freelancer**
 
 - 🌱 I’m currently learning **NextJS 14**
 
