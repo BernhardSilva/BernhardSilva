@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **for help with any kind of new ideas for developing interesting projects**
 
-- 👨‍💻 All of my projects are available at <code><a href="https://bernhard.vercel.app/"><img height="35" width="40" alt="bern-logo" src="https://bernhard.vercel.app/images/logos/logo-dark.webp" target="_blank"></a></code>
+- 👨‍💻 All of my projects are available at <code><a href="https://bernhard-winxp.vercel.app/"><img height="35" width="40" alt="bern-logo" src="https://bernhard.vercel.app/images/logos/logo-dark.webp" target="_blank"></a></code>
 
 - 📝 I regularly write articles on [AI](AI)
 
