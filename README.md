@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bernhard_silva" target="blank"><img src="https://img.shields.io/twitter/follow/bernhard_silva?logo=twitter&style=for-the-badge" alt="bernhard_silva" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Nomad - Freelancer**
+- 🔭 I’m currently working on **MTT - Ministry of Transport and Telecomunications of Chile** & **Digital Nomad - Freelancer**
 
-- 🌱 I’m currently learning **NextJS 14**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 👯 I’m looking to collaborate on **on a open source project about AI**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [AI](AI)
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React/Angular, Node/Java**
 
 - 📫 How to reach me **Send me an email 👉 <code><a href="mailto:bernhard.silva@gmail.com"><img height="18" width="20" alt="mail" src="https://bernhard.vercel.app/images/logos/mail.webp" target="_blank"></a></a></code> or check my portfolio down below!**
 
